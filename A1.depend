@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1471373106 source:/home/seifmostafa/Documents/fci/summer2016/files/assignments/A1/main.cpp
+	<iostream>
+	<cstring>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+
